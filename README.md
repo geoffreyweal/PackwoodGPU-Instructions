@@ -141,3 +141,44 @@ You can also copy a folder from the PackwoodGPU computer to your computer with t
 frompdgpuserver folder_name path_to_write_file_to_on_your_computer
 ```
 
+## Access PackwoodGPU on your web browser
+
+In Rocky 9, it is possible to get information about PackwoodGPU, as well as run the terminal on PackwoodGPU from your browser. To do this, type into your browser:
+
+```
+https://XX.XXX.XX.XXX:9090/
+```
+
+where ``XX.XXX.XX.XXX`` is the ip address for the PackwoodGPU browser. You will get the following message in your web browser saying the website is not private
+
+![First Page](https://github.com/geoffreyweal/PackwoodGPU-Instructions/blob/main/Figures/Web_Browser/First_Page.png?raw=true)
+
+This is ok because you know you are accessing the PackwoodGPU computer which is not a malicious server. So we need to say that we are happy to proceed and access the server/website. To do this, click the ``Advanced`` button. This will expand the options provides. 
+
+![First Page Advanced](https://github.com/geoffreyweal/PackwoodGPU-Instructions/blob/main/Figures/Web_Browser/First_Page_Advanced.png?raw=true)
+
+Click the ``Proceed to XX.XXX.XX.XXX (unsafe)`` button. This will allow your web browser to continue on to accessing the PackwoodGPU computer online. Note: While the web browser says this is unsafe, we know this is just the PackwoodGPU computer which is not acting as a malicious device. 
+
+Once you have done this, you will be shown the login screen for accessing the PackwoodGPU computer.
+
+![Login Screen](https://github.com/geoffreyweal/PackwoodGPU-Instructions/blob/main/Figures/Web_Browser/Login_Screen.png?raw=true)
+
+Note: The user name, ip address, and hostname for the PackwoodGPU computer have been blanked out. 
+
+Type in your username and password for for login for the PackwoodGPU computer. 
+
+You will then be presented the overview screen for the PackwoodGPU computer.
+
+![Overview Screen](https://github.com/geoffreyweal/PackwoodGPU-Instructions/blob/main/Figures/Web_Browser/Overview_Screen.png?raw=true)
+
+Note: Again, all sensitive information about the PackwoodGPU computer has been blanked out. 
+
+You can then click on the ``Terminal`` tab on the left-hand side of the web browser to access the terminal from your web browser
+
+![Terminal](https://github.com/geoffreyweal/PackwoodGPU-Instructions/blob/main/Figures/Web_Browser/Terminal.png?raw=true)
+
+
+
+
+
+
