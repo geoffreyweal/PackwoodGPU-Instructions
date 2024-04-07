@@ -1,4 +1,4 @@
-# PackwoodGPU-Instructions
+# PackwoodGPU Instructions
 
 This repository provides the information for using the PackwoodGPU computer
 
