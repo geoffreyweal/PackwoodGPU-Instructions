@@ -173,7 +173,7 @@ You will then be presented the overview screen for the PackwoodGPU computer.
 
 Note: Again, all sensitive information about the PackwoodGPU computer has been blanked out. 
 
-You can then click on the ``Terminal`` tab on the left-hand side of the web browser to access the terminal from your web browser
+You can then click on the ``Terminal`` tab on the left-hand side of the web browser to access the terminal from your web browser.
 
 ![Terminal](https://github.com/geoffreyweal/PackwoodGPU-Instructions/blob/main/Figures/Web_Browser/Terminal.png?raw=true)
 
